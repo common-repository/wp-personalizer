@@ -1,0 +1,13 @@
+.pers_main{border:1px solid #ddd !important;color:#616161 !important;font-size: 13px !important;border-radius: 5px !important; margin-top: 2.5% !important;}
+.pers_main_head{display: flex !important;font-weight: 600 !important;}
+.pers_Keywords{width: 12% !important; border:1px solid #ddd !important;padding: 15px !important;border-radius: 5px !important;}
+.pers_Keyword_Description{width: 20% !important; border:1px solid #ddd !important;padding: 15px !important;border-radius: 5px !important;}
+.pers_Shortcode{width: 46% !important; border:1px solid #ddd !important;padding: 15px !important;border-radius: 5px !important;}
+.pers_Action_theading{width: 30% !important;border:1px solid #ddd !important;padding: 15px !important;border-radius: 5px !important;}
+.scnt{display: flex;font-size: 13px !important;}
+.personaliser_key{width: 12% !important; border: 1px solid rgb(221, 221, 221) !important; padding: 7px !important; background-color: rgb(255, 255, 255) !important; overflow: hidden !important;border-radius: 5px !important;}
+.personaliser_key_desc{width: 20% !important; padding: 10px !important; border: 1px solid rgb(221, 221, 221) !important; background-color: rgb(255, 255, 255) !important; overflow: hidden !important;border-radius: 5px !important;}
+.personaliser_key_sho{width: 46% !important; padding: 10px !important; border: 1px solid rgb(221, 221, 221) !important; background-color: rgb(255, 255, 255) !important; overflow: hidden !important;border-radius: 5px !important;}
+.pers_Action_dyn{width: 30% !important;padding: 5px 13px !important; border: 1px solid rgb(221, 221, 221) !important; background-color: rgb(255, 255, 255) !important; overflow: hidden;border-radius: 5px !important;}
+.personaliser_delete{padding: 5px 5px;border: none !important;box-shadow: none !important;cursor: pointer !important;}
+.personaliser_edit{padding: 2px 7px !important;border-radius: 6px !important;border: none !important;box-shadow: none !important;}
